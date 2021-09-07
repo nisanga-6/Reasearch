@@ -1,0 +1,10 @@
+tensorflow-cpu
+Flask
+Flask-Cors
+opencv-python-headless
+librosa
+pickle4
+statistics
+imutils
+matplotlib
+Pillow
